@@ -1,0 +1,6 @@
+.idea
+transformers
+pygubu
+gologincrawl
+Crawl_Baomoi/*.txt
+Crawl_Baomoi/source/*.txt
